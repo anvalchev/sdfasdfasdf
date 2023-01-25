@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "sass:watch": "npx sass --watch assets/scss:public/assets/css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "bootstrap-icons": "^1.10.3",
+    "sass": "^1.57.1"
+  }
+}
